@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using WebSaleMvc.Models;
+using WebSaleMvc.Models.ViewsModels;
 
 namespace WebSaleMvc.Controllers
 {
